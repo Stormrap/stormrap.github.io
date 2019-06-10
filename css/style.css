@@ -1038,6 +1038,13 @@ a.brand:focus{
 .dots-image{
   display: inline-block;
   position: relative;
+
+}
+
+.dots-image-col{
+  display: inline-block;
+  position: relative;
+  margin-top: 20px;
 }
 
 .dots-image img{
